@@ -1,0 +1,7 @@
+{
+  "name": "MBUNDU 2.0",
+  "description": "A SuperApp for home and urban care services in Angola, connecting users with service providers for laundry, car detailing, cleaning, and domestic help.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
